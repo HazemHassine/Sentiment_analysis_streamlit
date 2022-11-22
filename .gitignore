@@ -4,3 +4,4 @@ test_model.py
 __pycache__
 test_pickle_fn.py
 test_loading_tokenize.py
+.gitignore
